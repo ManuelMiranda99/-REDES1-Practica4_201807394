@@ -25,6 +25,159 @@
                 "x": -985,
                 "y": -491,
                 "z": 2
+            },
+            {
+                "drawing_id": "9a0a5654-0a87-4d39-9695-1c3f95804aaf",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"83\" width=\"87\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"16.0\">VLAN 10\n\nVLAN 20</text></svg>",
+                "x": 60,
+                "y": -467,
+                "z": 2
+            },
+            {
+                "drawing_id": "13d9e66b-a65d-4f0a-be71-05e940d82d0b",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"48\" width=\"93\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"48\" stroke=\"#ff0000\" stroke-width=\"2\" width=\"93\" /></svg>",
+                "x": 58,
+                "y": -475,
+                "z": 1
+            },
+            {
+                "drawing_id": "2c3f4f64-6aaa-4dbb-a109-7c717e208a88",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"39\" width=\"96\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"39\" stroke=\"#00aa00\" stroke-width=\"2\" width=\"96\" /></svg>",
+                "x": 57,
+                "y": -419,
+                "z": 1
+            },
+            {
+                "drawing_id": "4e0259ae-bd5c-49e9-9639-6bda65eb4269",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"100\" width=\"116\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"100\" stroke=\"#ff0000\" stroke-width=\"2\" width=\"116\" /></svg>",
+                "x": -831,
+                "y": 59,
+                "z": 0
+            },
+            {
+                "drawing_id": "3c7777f4-a6d0-42d2-a9c4-47741d8b41dc",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"100\" width=\"116\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"100\" stroke=\"#ff0000\" stroke-width=\"2\" width=\"116\" /></svg>",
+                "x": -145,
+                "y": 32,
+                "z": 0
+            },
+            {
+                "drawing_id": "dd14eaba-ac97-4fe5-8803-4ff4a733a3c2",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"103\" width=\"135\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"103\" stroke=\"#00aa00\" stroke-width=\"2\" width=\"135\" /></svg>",
+                "x": -587,
+                "y": 51,
+                "z": 0
+            },
+            {
+                "drawing_id": "dde23e0f-d0d7-40d7-b2d7-98b610058f0c",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"103\" width=\"135\"><rect fill=\"#ffffff\" fill-opacity=\"1.0\" height=\"103\" stroke=\"#00aa00\" stroke-width=\"2\" width=\"135\" /></svg>",
+                "x": 108,
+                "y": 38,
+                "z": 0
+            },
+            {
+                "drawing_id": "3256fe93-b3b3-49b7-9dd5-bd51a658579d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"31\" width=\"126\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"14.0\">192.168.14.10</text></svg>",
+                "x": -838,
+                "y": 167,
+                "z": 2
+            },
+            {
+                "drawing_id": "0d5be078-8ad6-40cd-a8cf-d80e340e4058",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"31\" width=\"126\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"14.0\">192.168.14.20</text></svg>",
+                "x": -151,
+                "y": 142,
+                "z": 2
+            },
+            {
+                "drawing_id": "30f11f73-2676-456a-aa1e-3234d954d8f5",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"31\" width=\"126\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"14.0\">192.168.24.10</text></svg>",
+                "x": -583,
+                "y": 159,
+                "z": 2
+            },
+            {
+                "drawing_id": "9990b525-c181-4562-9d48-50a50fb57cec",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"31\" width=\"126\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"14.0\">192.168.24.20</text></svg>",
+                "x": 120,
+                "y": 147,
+                "z": 2
+            },
+            {
+                "drawing_id": "8139bff5-1c43-4173-846d-df536e8b38ca",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"32\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Po1</text></svg>",
+                "x": -375,
+                "y": -308,
+                "z": 2
+            },
+            {
+                "drawing_id": "bdafe0ed-82ec-4757-b360-4748c92c671b",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"32\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Po2</text></svg>",
+                "x": -244,
+                "y": -315,
+                "z": 2
+            },
+            {
+                "drawing_id": "4cc118fb-530e-40f9-81da-674d481e0047",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"32\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Po1</text></svg>",
+                "x": -601,
+                "y": -222,
+                "z": 2
+            },
+            {
+                "drawing_id": "63bed9a6-161c-4c7b-8036-1d89bd83dd4a",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"32\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Po3</text></svg>",
+                "x": -563,
+                "y": -192,
+                "z": 2
+            },
+            {
+                "drawing_id": "20f4284c-21ee-4bbc-92fc-688e50a38e97",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"32\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Po3</text></svg>",
+                "x": -81,
+                "y": -195,
+                "z": 2
+            },
+            {
+                "drawing_id": "4cd9ef40-40f3-4f3e-9787-6525c9fcd3bf",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"32\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Po2</text></svg>",
+                "x": -32,
+                "y": -222,
+                "z": 2
             }
         ],
         "links": [
@@ -548,8 +701,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "b078f546-c9ea-4bc7-a07a-903d1b50bcfa",
                 "width": 66,
-                "x": -357,
-                "y": -441,
+                "x": -320,
+                "y": -425,
                 "z": 1
             },
             {
@@ -605,8 +758,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "391f3ca0-62b7-4b0b-b600-75f4ef9935c8",
                 "width": 51,
-                "x": -348,
-                "y": -291,
+                "x": -313,
+                "y": -329,
                 "z": 1
             },
             {
@@ -678,8 +831,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "ESW3",
-                    "x": 3,
-                    "y": -25
+                    "x": 0,
+                    "y": -26
                 },
                 "locked": false,
                 "name": "ESW3",
@@ -976,7 +1129,7 @@
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
                 "x": -118,
-                "y": 60,
+                "y": 58,
                 "z": 1
             },
             {
