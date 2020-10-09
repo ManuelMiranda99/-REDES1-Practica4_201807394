@@ -22,6 +22,13 @@
 La topología de red que se realizó la práctica es la siguiente (Agregadas las IPs correspondientes):
 ![alt-text](https://github.com/ManuelMiranda99/-REDES1-Practica4_201807394/blob/main/Imgs/Topologia.png "Topología de Red")
 
+Las direcciones de cada VLAN  estan detalladas en la tabla siguiente:
+
+| VLAN | Dirección de Red | Primera Dirección Asignable | Última Dirección Asignable | Dirección de Broadcast |
+|:----:|:----------------:|:---------------------------:|:--------------------------:|:----------------------:|
+|  10  |  192.168.14.0/24 |         192.168.14.1        |       192.168.14.254       |     192.168.14.254     |
+|  20  |  192.168.24.0/24 |         192.168.24.1        |       192.168.24.254       |     192.168.24.254     |
+
 ## Configurar modo Trunk
 
 Para poder "pasar" las VLANs y algunas configuraciones dentro de los EthernetSwitches, se necesita de realizar ciertas configuraciones dentro de las interfaces de los mismos. Para estos se realiza la siguiente secuencia de comandos, luego de ingresar a la consola de estos.
